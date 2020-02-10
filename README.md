@@ -1,1 +1,1 @@
-#lecture-X-js-alerts 
+# lecture-9-js-alerts 
